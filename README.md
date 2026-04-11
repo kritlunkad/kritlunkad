@@ -12,7 +12,17 @@
   <h3>Hey there, I'm Krit 👋</h3>
   <p><strong>BTech CSE IoT @ Shiv Nadar University Chennai</strong></p>
   <p><strong>IITM BS in Data Science and its Applications</strong></p>
-  <p>🤖 Agentic AI • 🔧 IoT & Hardware • ⛓️ Blockchain</p>
+  <p> Agentic AI •  IoT & Hardware •  Blockchain</p>
+</div>
+<div align="center">
+<p><strong> 🌎 Connect With Me </strong></p>
+</div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krit-lunkad-481609266/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kritlunkad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritlunkad@gmail.com)
+
 </div>
 
 ---
@@ -74,18 +84,6 @@ I'm a developer passionate about **privacy-preserving systems**, **agentic AI ar
 | **IoT & Embedded** | ESP32, ESP-IDF, Network Security, Sensor Fusion |
 | **Full-Stack Development** | React, FastAPI, REST APIs, Real-time Systems |
 | **System Architecture** | Microservices, Distributed Systems, Cloud Deployment |
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krit-lunkad-481609266/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kritlunkad)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritlunkad@gmail.com)
-
-</div>
 
 ---
 
